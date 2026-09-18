@@ -25,15 +25,15 @@ Related repository: [365-days-of-coding](https://github.com/CharmanderTheGreat/3
 ## 🧭 Language Order & Why
 
 | # | Language | Difficulty | Why this order |
-|---|----------|:----------:|-----------------|
-| 1 | [Python](./python) | 🟢 Easy | Broad general-purpose use; accessible entry point into scripting and security tooling |
-| 2 | [Bash](./bash) | 🟢 Easy | Automation-focused; complements Linux/Kali-based workflows |
-| 3 | [SQL](./sql) | 🟡 Easy–Mid | Core skill for databases, used across most backend systems |
-| 4 | [TypeScript](./typescript) | 🟡 Mid | Builds on JavaScript with type safety for larger applications |
-| 5 | [C](./c) | 🟠 Mid–Hard | Low-level understanding of memory and networking fundamentals |
-| 6 | [Go](./go) | 🟠 Hard | Modern, concurrent language widely used in networking/backend tooling |
-| 7 | [Kotlin](./kotlin) | 🟠 Hard | Mobile development, complementary to Flutter experience |
-| 8 | [Rust](./rust) | 🔴 Hardest | Memory-safe systems programming for security tool development |
+|---|----------|------------|-----------------|
+| 1 | [Python](./python) | 🟢 1 — Easy | Broad general-purpose use; accessible entry point into scripting and security tooling |
+| 2 | [Bash](./bash) | 🟢 2 — Easy | Automation-focused; complements Linux/Kali-based workflows |
+| 3 | [SQL](./sql) | 🟡 3 — Easy–Mid | Core skill for databases, used across most backend systems |
+| 4 | [TypeScript](./typescript) | 🟡 4 — Mid | Builds on JavaScript with type safety for larger applications |
+| 5 | [C](./c) | 🟠 5 — Mid–Hard | Low-level understanding of memory and networking fundamentals |
+| 6 | [Go](./go) | 🟠 6 — Hard | Modern, concurrent language widely used in networking/backend tooling |
+| 7 | [Kotlin](./kotlin) | 🔴 7 — Hard–Harder | Mobile development, complementary to Flutter experience |
+| 8 | [Rust](./rust) | 🔴 8 — Hardest | Memory-safe systems programming for security tool development |
 
 ## 📂 Repo Structure
 
